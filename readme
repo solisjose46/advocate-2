@@ -1,0 +1,2 @@
+Static web server for serving static assets (html/css/images).
+advocate-cms builds/packages the assets then deployes this web app as a docker image.
